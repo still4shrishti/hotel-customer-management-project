@@ -2,7 +2,6 @@
 
 A command-line hotel management application built in Python using Object-Oriented Programming. Staff can register guests, allocate rooms, manage billing, and generate invoices — all through a simple numbered menu.
 
-> Developed as part of the VITyarthi "Build Your Own Project" evaluation for the Intro to Python course.
 
 ## Overview
 
@@ -55,7 +54,7 @@ No external libraries are required — only Python 3's standard library is used.
 
 ## How to Run
 
-Open a terminal in the project folder
+Open a terminal in the project folder and
 RUN
 ```
 python program.py
@@ -66,7 +65,7 @@ Follow the on-screen menu to add customers, allocate rooms, calculate bills, rec
 **Note:** Data is only saved to `custlist.txt` when you exit via option `0` from the menu. Closing the terminal window directly or pressing Ctrl+C will not save your changes.
 
 ## How to Test
-Open a terminal in the project folder
+Open a terminal in the project folder and
 RUN
 ```
 python test.py
@@ -103,25 +102,14 @@ This runs 8 automated test cases covering valid/invalid customer input, search, 
 <img width="971" height="885" alt="Screenshot 2026-09-29 191145" src="https://github.com/user-attachments/assets/791214a3-b3b0-4af0-9286-2008f58c3fde" />
 
 **3. Recording a payment and generating an invoice**
-
+                                             
 <img width="745" height="455" alt="Screenshot 2026-09-29 191307" src="https://github.com/user-attachments/assets/34a872dc-b113-40e7-945e-f18eb5eecb8f" />
-
+                                                               PAYMENT RECORD
 <img width="812" height="708" alt="Screenshot 2026-09-29 191332" src="https://github.com/user-attachments/assets/5b2305b1-46e6-4833-8367-9e11d9342b3d" />
-
-
-
+                                                               INVOICE GENRATING
 **4. Running the test suite**
 
 <img width="855" height="493" alt="Screenshot 2026-09-29 191522" src="https://github.com/user-attachments/assets/d6a100b8-00c3-4fcd-8dc2-a69d132d34be" />
-
-
-
-<!-- Screenshot: terminal output of `python test.py` showing PASSED/FAILED results -->
-
-## Author
-
-Shrishti Soni
-B.Tech Computer Science and Engineering, VIT Bhopal
 
 
 
