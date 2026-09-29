@@ -43,7 +43,7 @@ No external libraries are required — only Python 3's standard library is used.
 
 1. Clone the repository:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/still4shrishti/hotel-customer-management-project.git
    cd hotel-management-system
    ```
 2. Make sure Python 3 is installed:
