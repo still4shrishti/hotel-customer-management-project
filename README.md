@@ -21,13 +21,21 @@ register guests, allocate rooms, and manage billing through a simple menu.
 ## Project Structure
 
 hotel-management-system/
+
 ├── program.py # Entry point - **RUN THIS FILE
+
 ├── cutsmlist.py # Customer class + custmanager (Module 1)
+
 ├── roommanage.py # roommanage class (Module 2)
+
 ├── billings.py # bill class (Module 3)
+
 ├── data.py # Save/load customer data
+
 ├── test.py # Test cases for custmanager
+
 └── custlist.txt # Data file (auto-created/updated, don't edit manually)  **IT WILL AUTOMATICALLY CREATES WHEN U EXIT THE PROGRAM 
+
 
 (custlist.txt WILL NOT SAVE OR CREATE IF YOU DON'T EXIT )
 
